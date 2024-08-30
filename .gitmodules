@@ -1,0 +1,3 @@
+[submodule "test_module1"]
+	path = test_module1
+	url = https://github.com/duc-dn/test_module1
